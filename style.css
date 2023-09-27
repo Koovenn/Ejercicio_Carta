@@ -1,0 +1,13 @@
+body {
+    font-family: Garamond;
+    text-align: justify;
+    margin: 20px 100px;
+}
+
+#emisor {
+    text-align: right;
+}
+
+#despedida {
+    line-height: 5rem;
+}
